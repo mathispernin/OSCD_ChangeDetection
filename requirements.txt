@@ -10,3 +10,5 @@ scikit-image
 PyMaxflow
 pandas
 seaborn
+torch
+opencv-python
